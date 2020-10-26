@@ -8,7 +8,7 @@
 <!-- badges: end -->
 
 A fork from Alejandro Jara’s DPpackage, which is currently suspended on
-CRAN. All credits go to him, the link to the original page is:
+CRAN. The link to the original page is:
 <http://www.mat.uc.cl/~ajara/Softwares.html>
 
 ## Installation
